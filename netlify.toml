@@ -1,0 +1,15 @@
+[build]
+  # Command Netlify runs to build your site
+  command = "npm run build"
+
+  # Folder Netlify will publish to the internet (Vite outputs here)
+  publish = "dist"
+
+# Optional but helpful: if you later add client-side routing (react-router),
+# this makes refresh/deep-links work by serving index.html.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+

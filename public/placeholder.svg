@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f3f1ee"/>
+      <stop offset="1" stop-color="#e9e3db"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g)"/>
+  <rect x="60" y="60" width="1080" height="680" rx="28" fill="none" stroke="#c9bfae" stroke-width="6"/>
+  <text x="600" y="390" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial" font-size="54" text-anchor="middle" fill="#8b7d6a">
+    Portfolio Image Placeholder
+  </text>
+  <text x="600" y="460" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial" font-size="28" text-anchor="middle" fill="#9a8e7d">
+    Replace this with your real project photo later
+  </text>
+</svg>
+
+
